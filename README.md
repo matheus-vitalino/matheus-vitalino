@@ -12,13 +12,17 @@ Olá, Meu nome é **Matheus Vitalino**, tenho **16 anos** e moro em **Araras - S
 
 Sou muito interessado por **tecnologia e programação**, mais especificamente a área de **desenvolvimento back-end**. Gosto de criar programas, jogos, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
 
-Também desenvolvo projetos dentro do **Roblox Studio**, trabalhando com a linguagem LuaU.
+Também desenvolvo projetos dentro do **Roblox Studio**, trabalhando com a linguagem **LuaU**.
 
 Estou sempre buscando **aprender mais, melhorar minhas habilidades e evoluir todos os dias**.
 
-Meu sonho é construir uma carreira sólida dentro desse ramo
+Meu sonho é construir uma carreira sólida dentro desse ramo.
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheusvitalino&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ## 🚀 Tecnologias e Linguagens
 
@@ -46,18 +50,6 @@ Meu sonho é construir uma carreira sólida dentro desse ramo
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheus-vitalino&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-vitalino&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🎯 Objetivos
 
 - Me tornar um desenvolvedor altamente qualificado
@@ -69,4 +61,20 @@ Meu sonho é construir uma carreira sólida dentro desse ramo
 
 <p align="center">
  Sempre aprendendo • Sempre evoluindo
+</p>
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
+
+<a href="https://instagram.com/matheusvitalino09" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
 </p>
