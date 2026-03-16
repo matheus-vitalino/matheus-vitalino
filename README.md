@@ -8,13 +8,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá, Meu nome é **Matheus Vitalino**, tenho **16 anos** e moro em **Araras - São Paulo, Brasil**.
+Olá, meu nome é Matheus Vitalino, tenho 16 anos e moro em Araras, São Paulo, Brasil.
 
-Sou muito interessado por **tecnologia e programação**, mais especificamente a área de **desenvolvimento back-end**. Gosto de criar programas, jogos, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
+Sou muito interessado por tecnologia e programação mais especificamente a área de desenvolvimento back-end Gosto de criar programas, jogos, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
 
-Também desenvolvo projetos dentro do **Roblox Studio**, trabalhando com a linguagem **LuaU**.
+Também desenvolvo projetos dentro do **Roblox Studio**, trabalhando com a linguagem LuaU
 
-Estou sempre buscando **aprender mais, melhorar minhas habilidades e evoluir todos os dias**.
+Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos os dias
 
 Meu sonho é construir uma carreira sólida dentro desse ramo.
 
@@ -57,11 +57,6 @@ Meu sonho é construir uma carreira sólida dentro desse ramo.
 - Contribuir para projetos open source
 - Aprender algo novo todo dia
 
----
-
-<p align="center">
- Sempre aprendendo • Sempre evoluindo
-</p>
 
 ---
 
