@@ -31,7 +31,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos
 ### Principais
 - Java
 - Python
-- Roblox Studio (Lua)
+- LuaU
 
 ### Outros conhecimentos
 - HTML
