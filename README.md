@@ -14,9 +14,7 @@ Sou muito interessado por tecnologia e programação, mais especificamente a ár
 
 Também desenvolvo projetos dentro do **Roblox Studio**, trabalhando com a linguagem LuaU
 
-Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos os dias
-
-Meu sonho é construir uma carreira sólida dentro desse ramo.
+Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos os dias, principalmente na área de back-end developer
 
 ---
 
