@@ -66,7 +66,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-vitalino-90243838b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
