@@ -52,7 +52,7 @@ Estou sempre buscando aprender mais, melhorar minhas habilidades e evoluir todos
 
 - Me tornar um desenvolvedor altamente qualificado
 - Criar softwares e jogos
-- Contribuir para projetos open source
+- Contribuir para projetos e empresas
 - Aprender algo novo todo dia
 
 
